@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Art of Living Foundation South Africa//45th Foundation Day//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:satsang-45th-foundation-day-2026@artofliving.org.za
+DTSTAMP:20261024T080000Z
+DTSTART:20261113T164500Z
+DTEND:20261113T194500Z
+SUMMARY:Satsang and THE POWER WE HOLD - 45th Foundation Day
+LOCATION:Homecoming Centre\, 15 Buitenkant Street (corner Buitenkant & Caledon)\, District Six\, Cape Town
+DESCRIPTION:Address of the Homecoming Centre: 15 Buitenkant Street (corner Buitenkant & Caledon)\, District Six\, Cape Town\nMap: https://www.google.com/maps/search/?api=1&query=Homecoming+Centre+15+Buitenkant+Street+Cape+Town\n\nAgenda for the evening:\n18h45 - Arrive in the foyer of the Homecoming Centre\, and proceed (follow ushers and signs) to the rooftop\n19h00 - 20h00: Satsang on the rooftop\n20h00 - 20h15: Intermission\, then proceed to the Star Theatre (please be seated on time for the welcome\, introduction\, short video and curtain rise)\n20h15 - 21h30: Show: THE POWER WE HOLD\n\nEnjoy the celebration with us.
+URL:https://www.google.com/maps/search/?api=1&query=Homecoming+Centre+15+Buitenkant+Street+Cape+Town
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Satsang and THE POWER WE HOLD - in three days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Satsang and THE POWER WE HOLD - tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Satsang and THE POWER WE HOLD - in one hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR
