@@ -5,39 +5,30 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:45th-foundation-day-2026@artofliving.org.za
-DTSTAMP:20261022T220811Z
+DTSTAMP:20261026T130000Z
 DTSTART:20261113T161500Z
 DTEND:20261113T193000Z
 SUMMARY:45 Years of the Art of Living - Foundation Day
-LOCATION:Homecoming Centre (HCC)\, 15 Buitenkant Street (corner Buitenkant 
- & Caledon)\, District Six\, Cape Town
-DESCRIPTION:6.15 pm to 9.30 pm\n\nPresentations and testimonials in the Taf
- el: 7.00 pm to 8.00 pm\nIntermission: 8.00 pm to 8.15 pm\nYouth Inspired\,
-  performed by graduates of our Youth Leadership Training Programme\, in th
- e Star Theatre: 8.15 pm to 9.30 pm\n\nCanapes and refreshments are served.
-  Meals are vegetarian.\nDress: cultural smart casual (traditional).\n\nRSV
- P: craig@artofliving.org.za by 31 October 2026
+LOCATION:Homecoming Centre (HCC)\, 15 Buitenkant Street (corner Buitenkant & Caledon)\, District Six\, Cape Town
+DESCRIPTION:6.15 pm to 9.30 pm\n\nPresentations and testimonials in the Tafel: 7.00 pm to 8.00 pm\nIntermission: 8.00 pm to 8.15 pm\nTHE POWER WE HOLD\, performed by YLTP graduates Asanda Hanabe and Zolani Mahola\, in the Star Theatre: 8.15 pm to 9.30 pm\n\nCanapes and refreshments are served. Meals are vegetarian.\nDress: cultural smart casual (traditional).\n\nRSVP: craig@artofliving.org.za by 31 October 2026
 ORGANIZER;CN=Craig Aaron:mailto:craig@artofliving.org.za
 URL:https://www.artofliving.org
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SEQUENCE:1
+SEQUENCE:2
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:45 Years of the Art of Living - in three days, Friday 13 Novemb
- er
-TRIGGER:-P3D
+DESCRIPTION:45 Years of the Art of Living - in four days, Friday 13 November
+TRIGGER:-P4D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:45 Years of the Art of Living - tomorrow evening at the Homecom
- ing Centre
+DESCRIPTION:45 Years of the Art of Living - tomorrow evening at the Homecoming Centre
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:45 Years of the Art of Living - this evening, 6.15 pm at the Ho
- mecoming Centre
+DESCRIPTION:45 Years of the Art of Living - this evening, 6.15 pm at the Homecoming Centre
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
